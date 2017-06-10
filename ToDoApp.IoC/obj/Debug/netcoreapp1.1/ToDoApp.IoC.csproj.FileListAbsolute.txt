@@ -1,0 +1,15 @@
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.IoC.deps.json
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.IoC.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.IoC.pdb
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.AssemblyInfo.cs
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\obj\Debug\netcoreapp1.1\ToDoApp.IoC.pdb
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.AppServices.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.Data.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.Domain.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.AppServices.pdb
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.Data.pdb
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.pdb
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.IoC\bin\Debug\netcoreapp1.1\ToDoApp.Domain.pdb

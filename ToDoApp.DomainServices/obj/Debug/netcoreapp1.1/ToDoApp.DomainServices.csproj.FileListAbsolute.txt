@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.deps.json
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.AssemblyInfo.cs
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.DomainServices.pdb
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.Domain.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\bin\Debug\netcoreapp1.1\ToDoApp.Domain.pdb
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.dll
+C:\Users\Rodrigo\documents\visual studio 2017\Projects\ToDoApp\ToDoApp.DomainServices\obj\Debug\netcoreapp1.1\ToDoApp.DomainServices.pdb
